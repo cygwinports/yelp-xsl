@@ -1,0 +1,4 @@
+inherit gnome2
+
+
+CYGCONF_ARGS="--enable-doc"
