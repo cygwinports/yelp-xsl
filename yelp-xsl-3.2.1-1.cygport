@@ -1,0 +1,9 @@
+inherit gnome2
+
+DESCRIPTION="Yelp XSLT stylesheets"
+
+PATCH_URI="3.2.1-vpath.patch"
+
+DIFF_EXCLUDES="yelp-xsl.pot"
+
+CYGCONF_ARGS="--enable-doc"
