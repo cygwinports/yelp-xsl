@@ -1,0 +1,15 @@
+inherit gnome2
+
+NAME="yelp-xsl"
+VERSION=3.6.1
+RELEASE=1
+CATEGORY="GNOME"
+SUMMARY="Yelp XSLT stylesheets"
+DESCRIPTION="This package contains the DocBook XSLT stylesheets used by Yelp,
+the GNOME help viewer."
+
+PATCH_URI="3.4.1-vpath.patch"
+
+DIFF_EXCLUDES="yelp-xsl.pot"
+
+CYGCONF_ARGS="--enable-doc"

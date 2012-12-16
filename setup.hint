@@ -1,5 +1,0 @@
-category: Gnome
-requires: 
-sdesc: "Yelp XSLT stylesheets"
-ldesc: "This package contains the DocBook XSLT stylesheets used by Yelp, 
-the GNOME help viewer."
