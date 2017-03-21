@@ -1,7 +1,7 @@
 inherit gnome2
 
 NAME="yelp-xsl"
-VERSION=3.18.1
+VERSION=3.20.1
 RELEASE=1
 CATEGORY="GNOME"
 SUMMARY="Yelp XSLT stylesheets"
